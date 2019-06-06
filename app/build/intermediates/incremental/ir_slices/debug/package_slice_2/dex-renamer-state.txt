@@ -1,0 +1,4 @@
+#Thu Jun 06 13:53:24 CST 2019
+base.0=D\:\\workspace\\Baidu-TTS-Android-2.3.5.1.20180713_6101c2a\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\2
+path.0=classes.dex
+renamed.0=classes.dex
